@@ -28,3 +28,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Infinity
+INFINITY_MAINTAINER := "Suchit"
+
+# Include Google Apps
+WITH_GAPPS := true

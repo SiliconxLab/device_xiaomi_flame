@@ -17,3 +17,8 @@ telephony.lteOnCdmaDevice=1
 
 # Wi-Fi Display
 persist.debug.wfd.enable=1
+
+# Infinity
+ro.product.marketname=POCO M7 5G
+ro.infinity.soc=Snapdragon 4 Gen 2
+ro.infinity.camera=50MP + 8MP | 8MP
