@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_flame.mk
+    $(LOCAL_DIR)/infinity_flame.mk
