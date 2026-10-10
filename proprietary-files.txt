@@ -59,7 +59,6 @@ vendor/lib64/libqtigefar.so;DISABLE_DEPS
 vendor/lib64/vendor.qti.hardware.ListenSoundModelAidl-V1-ndk.so
 
 # Audio configs
-vendor/etc/audio/sku_ravelin/audio_effects_config.xml
 vendor/etc/audio/sku_ravelin/audio_effects_config_stub.xml
 vendor/etc/audio/sku_ravelin/mixer_paths_ravelin_qrd.xml
 vendor/etc/audio/sku_ravelin/resourcemanager_ravelin_qrd.xml
@@ -1247,7 +1246,6 @@ vendor/etc/init/vendor.qti.media.c2@1.0-service.rc
 vendor/etc/init/vendor.qti.media.c2audio@1.0-service.rc
 vendor/etc/seccomp_policy/codec2.vendor.base-arm64.policy
 vendor/etc/seccomp_policy/codec2.vendor.ext-arm64.policy
-vendor/etc/vintf/manifest/c2_manifest_vendor.xml
 vendor/etc/vintf/manifest/c2_manifest_vendor_audio.xml
 vendor/lib64/libEvrcSwCodec.so
 vendor/lib64/libQcelp13SwCodec.so
